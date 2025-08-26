@@ -22,16 +22,16 @@ title: 我本平凡
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   这是一个分享留学、语言、AI、工作和海外生活经验的个人博客。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # 请替换为你的GitHub Pages URL
-twitter_username: yourusername
-github_username:  yourusername
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://pingfanfan.github.io" # 你的GitHub Pages URL
+twitter_username: pingfanfan
+github_username:  pingfanfan
 
 # 社交链接
 social_links:
-  github: yourusername
-  twitter: yourusername
-  linkedin: yourusername
+  github: pingfanfan
+  twitter: pingfanfan
+  linkedin: pingfanfan
 
 # Build settings
 theme: minima
